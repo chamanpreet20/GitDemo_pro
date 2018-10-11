@@ -3,6 +3,7 @@ function car()
 this.color='Red';
 this.brand='BMW';
 this.engine='turbo';
+this.year='2010';
 this.model=function()
 {
 console.log('Print 2020 model');	
